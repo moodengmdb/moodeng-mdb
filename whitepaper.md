@@ -87,12 +87,12 @@ Moodeng MDB implements a 1% transaction fee distributed as follows:
 - Token launch on Binance Smart Chain.  
 - Initial marketing campaigns targeting early adopters.  
 - Deployment of liquidity pools on major DEXs.  
-- Listing on Uniswap for trading.
+- Moodeng MDB listed on PancakeSwap for trading.
 
 ### Phase 2: Q2 2025
 - Integration with DeFi platforms for staking and yield farming.  
 - Launch of Moodeng wallet with multi-chain support.  
-- Moodeng MDB listed on PancakeSwap for trading.
+- Listing on Uniswap for trading.
 
 ### Phase 3: Q3 2025
 - Expansion of global partnerships.  
